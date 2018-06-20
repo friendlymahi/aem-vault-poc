@@ -9,7 +9,7 @@
         cq:lastModified="{Date}2016-02-09T00:05:48.520+01:00"
         cq:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"
-        jcr:title="We.Retail Vault GitSync from Github.com at 3.33 PM CDT"
+        jcr:title="We.Retail Vault GitSync from Github.com at 3.34 PM CDT"
         sling:redirect="true"
         sling:redirectStatus="{Long}302"
         sling:resourceType="foundation/components/redirect"
