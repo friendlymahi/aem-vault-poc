@@ -9,7 +9,7 @@
         cq:lastModified="{Date}2018-06-20T15:48:37.594-05:00"
         cq:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"
-        jcr:title="We.Retail Vault GitSync from local AEM @21-Jun-18 10.22 PM CDT"
+        jcr:title="We.Retail Vault GitSync from local AEM @21-Jun-18 10.48 PM CDT"
         sling:redirect="true"
         sling:redirectStatus="{Long}302"
         sling:resourceType="foundation/components/redirect"
